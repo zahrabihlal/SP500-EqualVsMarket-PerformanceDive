@@ -37,6 +37,7 @@ This analysis aims to determine the reasons for the outperformance of the EWI ov
 
 - Python 3.x
 - Pandas
+- yfinance
 - Matplotlib
 - Seaborn
 - NumPy
